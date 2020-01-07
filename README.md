@@ -1,4 +1,4 @@
-# Welcome to University Of Chicago's Python For Analytics_ course
+# Welcome to University Of Chicago's Python For Analytics
 This course introduces the python language of programming to students who are preparing to study analytics and data science
 
 Please follow the instructions below to get your computer ready for this class.
@@ -7,7 +7,7 @@ _Note Mac users: Once software is downloaded, if you double click to launch it, 
 
 ## Install Python (anaconda distribution)
 Please install Python 3.x from this website: https://www.anaconda.com/distribution/
-(do not install 2.7)
+(do not install 2.7, it will be discontinued soon.) 
 
 Mac users:
 Accept all default prompts
