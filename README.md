@@ -41,12 +41,7 @@ print("Disk:\t",round(disk_usage(os.path.abspath(os.sep)).total/bytes_in_gb,4), 
 print("CPUs:\t", cpu_count())
 ```
 
-## Install all packages in environment.yml
-Available at https://github.com/falconair/ProgrammingForAnalytics/blob/master/environment.yml
-Also available in the repository you cloned in the previous step.
-
-
-## Install Git and Git Bash [Optional on day 1]
+## Install Git
 Please intall Git, a version control sotware, from this website: https://git-scm.com/downloads (you are ok to use default settings)
 
 Note that this is a command-line tool. Once installed, you may not see a new icon to click. We will install a Desktop client to remedy this.
@@ -54,13 +49,9 @@ Note that this is a command-line tool. Once installed, you may not see a new ico
 Although we don't make heavy use of version control, you will be introduced to the concept. Installing Git also installs "Git Bash," and comand line environment which simulates Unix/Linux. We will do several exercises which will require this environment.
 
 #### Additional steps:
-1. Install a _Graphical_ interface to Git from this website: https://desktop.github.com/
-2. [Windows users only] Create or edit a file called `.profile` in your home directory (c:\Users\your_username\\.profile) and add a new line containing the word `cd`
-
-#### Additional steps:
 Install Python extensions from https://marketplace.visualstudio.com/items?itemName=ms-python.python (visit that page and click "Install")
 
 ## Clone this repository [Optional on day 1]
-1. Visit this web page: https://github.com/falconair/ProgrammingForAnalytics
+1. Visit this web page: https://github.com/ravescovi/python_for_analytics
 2. Click "Clone or download" and pick the "Download ZIP" option (unless you already have a GitHub account)
 
