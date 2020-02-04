@@ -48,9 +48,6 @@ Note that this is a command-line tool. Once installed, you may not see a new ico
 
 Although we don't make heavy use of version control, you will be introduced to the concept. Installing Git also installs "Git Bash," and comand line environment which simulates Unix/Linux. We will do several exercises which will require this environment.
 
-#### Additional steps:
-Install Python extensions from https://marketplace.visualstudio.com/items?itemName=ms-python.python (visit that page and click "Install")
-
 ## Clone this repository [Optional on day 1]
 1. Visit this web page: https://github.com/ravescovi/python_for_analytics
 2. Click "Clone or download" and pick the "Download ZIP" option (unless you already have a GitHub account)
