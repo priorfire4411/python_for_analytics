@@ -1,4 +1,4 @@
-class raf_NQueens:
+class raf_nq:
     def __init__(self, size, show=False):
         self.size = size
         self.solutions = 0
