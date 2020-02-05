@@ -1,18 +1,16 @@
-import setuptools
+from setuptools import setup, find_packages
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
 
-setuptools.setup(
-    name="MSCA07013", # Replace with your own username
+setup(
+    name="msca", 
     version="0.0.1",
     author="Rafael Vescovi",
     author_email="ravescovi@gmail.com",
-    description="A small example package",
-    long_description=long_description,
+    description="MSCA Class Package",
     long_description_content_type="text/markdown",
     url="https://github.com/ravescovi/python_for_analitycs",
     packages=['msca'],
+    include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
