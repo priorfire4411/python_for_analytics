@@ -9,7 +9,7 @@ setup(
     description="MSCA Class Package",
     long_description_content_type="text/markdown",
     url="https://github.com/ravescovi/python_for_analitycs",
-    packages=['msca'],
+    packages=find_packages(exclude=["*test*"]),
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
