@@ -1,7 +1,10 @@
 import multiprocessing
 import time
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+import numpy as np
 
-def square(x):
+def run(x):
 	return x**2
 
 # python doens't have a main() that is executed automatically
@@ -16,7 +19,28 @@ if __name__ == '__main__':
 	
 	start = time.time()
 
-	vect = list(range(100000000))
+	vect = list(range(1000000000))
+
+	#data = [
+	#[1,2],
+	#[3,4]
+	#]
+
+	#df = pd.DataFrame(data, columns = ["a", "b"])
+
+	#data1 = [
+	#[12,23],
+	#[32,44]
+	#]
+
+	#df1 = pd.DataFrame(data1, columns = ["a", "b"])
+
+	#iterable = [df,df1]
+
+	#lst =[
+	#	{"model":"lr", "normalize":"true","x":np.array(),"y":np.array()},
+
+	#]
 
 	# Runtime: 104 seconds
 	#a = []
@@ -30,10 +54,14 @@ if __name__ == '__main__':
 	# Runtime Square: 32 seconds
 	#vect = list(map(square, vect))
 
+	f = open(path, "w+")
+
 	# Runtime Square: 18 seconds
 	pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
-	results = pool.map(square, vect)
-
+	results = pool.map(f, vect)
+	#print(data)
+	#print(results)
 	end = time.time()
 	print("Seconds:{}".format(end - start))
+	f.close()
 
