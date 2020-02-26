@@ -1,0 +1,5 @@
+model_type: "decision tree"
+splitting_type: "entropy"
+features:
+    - "sepal length"
+    - "sepal width"
