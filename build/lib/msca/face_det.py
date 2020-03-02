@@ -1,14 +1,16 @@
-import cv2
+
 
 def face_detect(imgPath, cascPath=None):
-	
+	try :
+		import cv2
+
 	if cascPath==None:
 		print('No cascadades.. No cool')
 		return
 
 	faceCascade = cv2.CascadeClassifier(cascPath)
 
-	image = cv2.imread(imgPath,0)
+	image = cv2.imread(imgPath)
 	gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 	faces = faceCascade.detectMultiScale(
