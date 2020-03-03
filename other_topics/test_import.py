@@ -4,12 +4,18 @@
 #import argparse # https://docs.python.org/3/library/argparse.html#argparse.ArgumentParser.add_argument
 import yaml # https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
 import pandas as pd
+#import functions as F
 #import sklearn decisiontree
 
 if __name__ == "__main__":
 
-	if zscore_norm:
-		df = zscore_norm(df)
+	import functions as F
+
+	print(__name__)
+	print(F.__name__)
+
+	#if zscore_norm:
+	#	df = zscore_norm(df)
 	#parser = argparse.ArgumentParser()
 
 	# name is how we pass it in on the command line
@@ -34,17 +40,17 @@ if __name__ == "__main__":
 	#dt.save(results.save_path)
 	#dt.predict(result.pred_data)
 
-	with open('test.yaml') as f:
-	    data = yaml.load(f, Loader=yaml.FullLoader)
+	#with open('test.yaml') as f:
+	#    data = yaml.load(f, Loader=yaml.FullLoader)
 
-	print(data)
+	#print(data)
 	
-	model_type = "decision tree"
+	#model_type = "decision tree"
 
-	if data["modele_type"] == "decision tree":
-		model = DecisionTree()
-	elif data["modele_type"] == "knn":
-		model = KNNClassifier()
+	#if data["modele_type"] == "decision tree":
+	#	model = DecisionTree()
+	#elif data["modele_type"] == "knn":
+	#	model = KNNClassifier()
 
 	#print(results.myparam1)
 	#print(results.myparam2)

@@ -1,5 +1,19 @@
-model_type: "decision tree"
+model_type: "knn"
 splitting_type: "entropy"
+zscore_norm: True
 features:
     - "sepal length"
     - "sepal width"
+    - "sepal length"
+    - "sepal width"
+    - "sepal length"
+    - "sepal width"
+    - "sepal length"
+    - "sepal width"
+    - "sepal length"
+    - "sepal width"
+    - "sepal length"
+    - "sepal width"
+save_path: 
+data_path:
+model_save_path:
