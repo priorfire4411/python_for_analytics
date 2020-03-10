@@ -1,13 +1,12 @@
 def test():
-	'''
-	param1: 
-	returns:
-	'''
-	print("test")
+	print("print from functions.py")
 
 
-if __name__ == "__main__":
-	test()
+#if __name__ == "__main__":
+#	print("functions.py name:", __name__)
+#	test()
+#	def test():
+#		print("print from functions.py")
 
 #def normalize():
 #	pass

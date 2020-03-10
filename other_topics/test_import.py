@@ -2,18 +2,19 @@
 #import functions as F
 #from functions import test
 #import argparse # https://docs.python.org/3/library/argparse.html#argparse.ArgumentParser.add_argument
-import yaml # https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
-import pandas as pd
+#import yaml # https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/
+#import pandas as pd
+import functions as F
 #import functions as F
 #import sklearn decisiontree
 
 if __name__ == "__main__":
+	print("test_import.py name:", __name__)
+	print("functions.py name:", F.__name__)
 
-	import functions as F
+	print("print from test_import.py")
 
-	print(__name__)
-	print(F.__name__)
-
+	F.test()
 	#if zscore_norm:
 	#	df = zscore_norm(df)
 	#parser = argparse.ArgumentParser()
