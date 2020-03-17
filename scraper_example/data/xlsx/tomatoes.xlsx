@@ -1,0 +1,19 @@
+"Tomatoes—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh,,,,,,
+"Grape and cherry1,2",3.4831293942, per pound,0.91,0.37478584571429185,pounds,1.4345358194918199
+"Roma and plum1,3",1.2921776573, per pound,0.91,0.37478584571429185,pounds,0.5321866990157064
+"Large round1,4",2.0066199543, per pound,0.91,0.37478584571429185,pounds,0.8264316006587903
+Canned5,0.912876896, per pound,1,0.54013254235295,pounds,0.49307451869174956
+"1Includes greenhouse, hydroponic, and field-grown tomatoes. It is assumed that these tomatoes are eaten raw. The USDA National Nutrient Database for Standard Reference (SR) reports that inedible core and stems account for 9 percent of the retail weight, indicating a preparation yield of 91 percent.",,,,,,
+,,,,,,
+"2Includes cherry, grape, teardrop, pear, and cocktail tomatoes. Includes all colors.",,,,,,
+,,,,,,
+3Includes roma and plum tomatoes. Includes only red tomatoes.,,,,,,
+,,,,,,
+"4Includes large and beefsteak tomatoes. Excludes heirloom, tomatoes sold on the vine, and colors other than red.",,,,,,
+,,,,,,
+"5Includes diced tomatoes packed in juice; excludes other forms of canned tomatoes like catsup, chili sauce, stewed tomatoes, and tomato paste. Products that include other ingredients like basil, dill, chilies, pepper, onion, or garlic are also excluded. Canned, diced tomatoes may be used in the preparation of soups, sauces, and other foods. However, the cooking yield in the above table does not account for any further preparation that occurs prior to consumption. ",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; Agriculture Handbook No.102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

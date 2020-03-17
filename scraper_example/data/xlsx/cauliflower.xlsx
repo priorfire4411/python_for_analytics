@@ -1,0 +1,12 @@
+"Cauliflower—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1, ,, , , ,
+  Florets,3.1279734694, per pound,0.9702380952380952,0.27557782773109696,pounds,0.8884418557964591
+  Heads,1.416972077, per pound,0.8926190476190476,0.27557782773109696,pounds,0.43746107365382203
+Frozen2,1.6814349408, per pound,0.9303507464201833,0.27557782773109696,pounds,0.4980553734597156
+"1It is assumed that fresh cauliflower is cooked prior to consumption. Based on Agriculture Handbook No.102, ERS further assumes that 8 percent of a fully-trimmed head is inedible, including outer leaf stems and core. Florets are assumed to include no refuse. According to the USDA Food and Nutrient Database for Dietary Studies (FNDDS), an additional 3 percent of the weight is lost through cooking for both products. Finally, based on these figures, ERS estimates an overall preparation yield of about 89 percent for fully-trimmed heads and 97 percent for florets.  ",,,,,,
+,,,,,,
+"2It is assumed that frozen cauliflower is cooked prior to consumption. The FNDDS reports that cooking eight ounces of frozen cauliflower yields 211 grams of cooked vegetable, indicating a preparation yield of about 93 percent.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; Agriculture Handbook No. 102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

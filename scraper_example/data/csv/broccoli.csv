@@ -1,0 +1,12 @@
+"BroccoliAverage retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh , ,, , , ,
+  Florets1,$2.36, per pound,1,0.342,pounds,$0.81
+  Heads1,$1.92, per pound,0.78,0.342,pounds,$0.84
+Frozen2,$1.82, per pound,0.882,0.342,pounds,$0.71
+"1It is assumed that fresh broccoli is boiled, steamed, or pressure cooked prior to consumption. Based on Agriculture Handbook No.102 (AH102), ERS further assumes that 22 percent of the weight of a trimmed head of broccoli is inedible, including tough stalks and trimmings. Florets are assumed to include no refuse. No additional weight is lost when cooking either product (AH102). ",,,,,,
+,,,,,,
+"2Excludes products that contain cheese. It is assumed that frozen broccoli is cooked prior to consumption. The USDA Food and Nutrient Database for Dietary Studies (FNDDS) indicates that cooking a 10-ounce package of frozen broccoli yields 250 grams of cooked vegetable, implying a preparation yield of about 88 percent.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; Agriculture Handbook No. 102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

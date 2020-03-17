@@ -1,0 +1,18 @@
+"Carrots—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh,,,,,,
+Cooked whole1,0.7737514155, per pound,0.8158333333333333,0.3196702801680725,pounds,0.3031812033993802
+Raw whole1,0.7737514155, per pound,0.89,0.27557782773109696,pounds,0.239582847513878
+Raw baby2,1.4373172338, per pound,1,0.27557782773109696,pounds,0.3960927610510732
+Canned3,0.9231914223, per pound,0.65,0.3196702801680725,pounds,0.45402593940831126
+Frozen4,1.3965860252, per pound,0.98,0.3196702801680725,pounds,0.45555821015765174
+"1Whole carrots may be eaten fresh or cooked. Either way, consumers must first discard the inedible parts, including the crown and scrapings. According to the USDA National Nutrient Database for Standard Reference (SR), this refuse accounts for about 11 percent of the retail weight. If consumers further cook the carrots, then the USDA Food and Nutrient Database for Dietary Studies (FNDDS) reports that there is an additional loss of about 8.4 percent. Based on these figures, ERS estimates an overall preparation yield of 82 percent for cooking whole carrots. ",,,,,,
+,,,,,,
+2ERS assumes that baby carrots are eaten raw and include no inedible parts.,,,,,,
+,,,,,,
+"3The liquid contents of the can are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned carrots is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned carrots in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,
+,,,,,,
+4It is assumed that frozen carrots are boiled prior to consumption. Agriculture Handbook No.102 reports a 98 percent preparation yield for boiling frozen carrots.  ,,,,,,
+ ,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; Agriculture Handbook No. 102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

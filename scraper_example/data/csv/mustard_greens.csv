@@ -1,0 +1,13 @@
+"Mustard greensAverage retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,$2.68, per pound,0.84,0.309,pounds,$0.98
+Canned2,$0.82, per pound,0.65,0.331,pounds,$0.42
+Frozen3,$1.56, per pound,0.748,0.331,pounds,$0.69
+"1Includes packaged, fresh-cut (e.g., cut or shredded) mustard greens. It is assumed that fresh mustard greens are boiled prior to consumption. Agriculture Handbook No.102 reports an 84 percent preparation yield for boiling raw, trimmed mustard greens.",,,,,,
+,,,,,,
+"2The liquid contents of the can are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned mustard greens is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned mustard greens in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,
+,,,,,,
+"3It is assumed that frozen mustard greens are cooked prior to consumption. The USDA Food and Nutrient Database for Dietary Studies (FNDDS) reports that cooking a ten-ounce package of frozen mustard greens yields 212 grams of cooked vegetable, indicating a preparation yield of about 74.8 percent.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; Agriculture Handbook No.102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

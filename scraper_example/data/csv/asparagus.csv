@@ -1,0 +1,13 @@
+"AsparagusAverage retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+Form,Average retail price ,,Preparation,Size of a ,,Average price,
+,,,yield factor,cup equivalent ,,per cup equivalent,
+Fresh1,$3.08, per pound,0.494,0.397,pounds,$2.47,
+Canned2,$2.72, per pound,0.65,0.397,pounds,$1.66,
+Frozen3,$6.07, per pound,1.034,0.397,pounds,$2.33,
+"1Includes green asparagus. It is assumed that fresh asparagus is cooked prior to consumption. The USDA Food and Nutrient Database for Dietary Studies (FNDDS) indicates that preparing one ounce of raw asparagus yields 14 grams of cooked vegetable, indicating a preparation yield of about 49 percent. This accounts for both the removal of inedible butt ends as well as cooking loss.",,,,,,,
+,,,,,,,
+"2Includes green asparagus. The liquid contents of the can are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned asparagus is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned asparagus in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,,
+,,,,,,,
+"3The FNDDS reports that cooking ten ounces of frozen aparagus yields 293 grams of cooked vegetable, indicating a preparation yield of about a 103 percent.",,,,,,,
+,,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; and the Food Patterns Equivalents Database (FPED) 2013-14  as well as the FPED's accompanying Methodology and User Guide.",,,,,,,

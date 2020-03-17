@@ -1,0 +1,17 @@
+"Peaches—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,1.6779315817, per pound,0.96,0.34171650638656026,pounds,0.5972676229731242
+Canned, ,, ,, ,
+  Packed in juice2,1.8800453698, per pound,1,0.54013254235295,pounds,1.015473685328966
+  Packed in syrup or water3,1.5862877905, per pound,0.65,0.44092452436975516,pounds,1.0760510608304035
+Frozen,3.1870806846, per pound,1,0.33069339327731634,pounds,1.0539465262389665
+"1The USDA National Nutrient Database for Standard Reference (SR) reports that the inedible pit of a peach accounts for 4 percent of the retail weight, implying a preparation yield of 96 percent, when eaten raw.",,,,,,
+,,,,,,
+2Consumers are assumed to eat the solid fruit and drink the juice. All contents of the can are edible and count towards an individual's recommended fruit consumption.   ,,,,,,
+,,,,,,
+"3The syrup (or water) is discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid. The FPED cup equivalent weight for canned fruit is the weight of the solids and not of the liquid medium in which it is packed. The preparation yield factor for canned peaches in the above table does not account for any further preparation that occurs prior to consumption. ",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide. ",,,,,,
+,,,,,,
+ ,,,,,,

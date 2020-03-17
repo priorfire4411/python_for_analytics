@@ -1,0 +1,14 @@
+"Oranges—Average retail price per pound or pint and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,1.0971216003, per pound,0.6799999999999999,0.4078551850420235,pounds,0.6580393136822904
+Juice,,,,,,
+Ready to drink2,0.8467005261, per pint,1,8,fl oz,0.42335026305
+Frozen3,0.658986796, per pint,1,8,fl oz,0.329493398
+"1Includes only navel and red navel oranges. Excludes other varieties like valencia oranges. The USDA National Nutrient Database for Standard Reference (SR) reports that inedible peel and seeds account for 27 percent of the retail weight, implying a preparation yield of 73 percent, when oranges are eaten raw.",,,,,,
+,,,,,,
+2Includes refrigerated and unrefrigerated juice. ,,,,,,
+,,,,,,
+3Includes juice sold as frozen concentrate. The consumer reconstitutes this juice after purchase by adding three containers of water per container of concentrate. Retail price is dollars per pint after reconstitution.,,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

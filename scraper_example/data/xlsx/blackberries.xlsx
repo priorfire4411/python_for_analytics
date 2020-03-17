@@ -1,0 +1,10 @@
+"Blackberries—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1 ,5.661671336, per pound,0.96,0.3196702801680725,pounds,1.885279231456943
+Frozen2,3.6920108696, per pound,1,0.33069339327731634,pounds,1.2209236024847594
+"1The USDA National Nutrient Database for Standard Reference (SR) reports that inedible caps and spoiled berries account for 4 percent of the fruit's weight, implying a preparation yield of 96 percent, when eaten raw.",,,,,,
+,,,,,,
+2Excludes blackberries with added sugar or other sweeteners. Includes unsweetened blackberries. Consumers are assumed to eat the berries in frozen form without further preparation.,,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide. ",,,,,,

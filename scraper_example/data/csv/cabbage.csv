@@ -1,0 +1,11 @@
+"CabbageAverage retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh green cabbage1,$0.62, per pound,0.779,0.331,pounds,$0.26
+Fresh red cabbage1,$1.02, per pound,0.779,0.331,pounds,$0.43
+Sauerkraut2,$1.15, per pound,0.65,0.309,pounds,$0.55
+"1It is assumed that consumers discard the inedible outer leaves and inner core of the cabbage. They then cook the remaining vegetable prior to consumption. The USDA Food and Nutrient Database for Dietary Studies (FNDDS) reports that about 81 percent of a head of cabbage is edible. However, when these parts are boiled or steamed, another 4 percent of the remaining weight is lost. This implies an overall preparation yield of about 78 percent.   ",,,,,,
+,,,,,,
+"2Includes sauerkraut packed in cans or glass jars. The container's liquid contents are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the retail product's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned sauerkraut is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned sauerkraut in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

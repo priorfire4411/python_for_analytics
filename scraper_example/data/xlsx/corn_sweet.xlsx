@@ -1,0 +1,13 @@
+"Sweet corn—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,3.2649279391, per pound,0.54,0.363762732605048,pounds,2.199368720158488
+Canned2,0.8537281609, per pound,0.65,0.363762732605048,pounds,0.4777761364782555
+Frozen3,1.5981945708, per pound,0.9629791612235452,0.363762732605048,pounds,0.6037136084752748
+1Includes ears of sweet corn sold on the cob without husk. It is assumed that consumers cook the corn on the cob prior to consumption. Agriculture Handbook No. 102 (AH102) reports a preparation yield of 54 percent for cooking corn on the cob. ,,,,,,
+,,,,,,
+"2Excludes creamed corn. The liquid contents of the can are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned corn is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned corn in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,
+,,,,,,
+3Includes only whole kernel corn; excludes frozen corn on the cob. AH102 reports a preparation yield of 96 percent for boiling or steaming frozen kernels.,,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; Agriculture Handbook No. 102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

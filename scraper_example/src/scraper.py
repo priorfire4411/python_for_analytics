@@ -11,6 +11,7 @@ import os
 import re
 from multiprocessing import Pool
 
+
 def get_parsed_html(url):
 	'''
 	param url: string of a url to be scraped
@@ -77,6 +78,7 @@ if __name__ == '__main__':
 	# regex to extract file name
 	pattern = r"(\w+\.)((csv)|(xlsx))"
 
+
 	# urls to use
 	url = r"https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices/"
 	download_url = r"https://www.ers.usda.gov"
@@ -92,28 +94,17 @@ if __name__ == '__main__':
 	xlsx_names = [get_file_names(u,pattern,xlxs_directory) for u in xlsx_urls]
 
 	# list of tuples
-	iterable = list(zip(csv_urls, csv_names)) + list(zip(xlsx_urls, xlsx_names)) * 4
-	print(len(iterable))
+	iterable = list(zip(csv_urls, csv_names)) + list(zip(xlsx_urls, xlsx_names)) * 5
 
 	# start timer
 	start = time.time()
 
 	# single thread, single core - 27 seconds
-	#for idx,i in enumerate(iterable):
-	#	scrape_and_save(i)
-	#	print("Complete:{}%".format(round(idx/len(iterable),2)*100))
+	for idx,i in enumerate(iterable):
+		scrape_and_save(i)
+		print("Complete:{}%".format(round(idx/len(iterable),2)*100))
 
-	# multi threading 4 workers - 12 seconds
-	# multi threading 8 workers - 4 seconds
-	# ProcessPoolExecutor, ThreadPoolExecutor
-	with ProcessPoolExecutor(8) as executor:
+	with ThreadPoolExecutor(8) as executor:
 		results = executor.map(scrape_and_save, iterable)
-
-
-	# multi threading 4 workers - 7 seconds
-	# multi threading 8 workers - 4 seconds
-	#with Pool(8) as executor:
-	#	results = executor.map(scrape_and_save, iterable)
-
 
 	print("Elapsed Time:{}".format(time.time() - start))

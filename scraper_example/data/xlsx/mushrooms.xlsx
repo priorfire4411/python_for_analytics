@@ -1,0 +1,9 @@
+"Mushrooms—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,,,,,,
+Whole,3.5482533263, per pound,0.97,0.1543235835294143,pounds,0.5645146067884332
+Sliced,3.81042465, per pound,1,0.1543235835294143,pounds,0.5880383867568142
+"1Includes regular mushrooms (i.e., white button or agaricus mushrooms). It is assumed that fresh mushrooms are eaten raw. The USDA National Nutrient Database for Standard Reference (SR) reports that inedible trimmings account for 3 percent of the weight of whole, white mushrooms, indicating a preparation yield of 97 percent. ERS assumes that 100 percent of sliced mushrooms is edible.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

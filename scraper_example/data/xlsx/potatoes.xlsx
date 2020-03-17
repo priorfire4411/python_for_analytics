@@ -1,0 +1,13 @@
+"Potatoes—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,0.6037360906, per pound,0.8113011248403494,0.2645547146218531,pounds,0.19687046432608699
+Frozen french fries2,1.2177194503, per pound,0.7760271628907691,0.34171650638656026,pounds,0.5362116897627841
+Canned3,0.9031082713, per pound,0.65,0.34171650638656026,pounds,0.4747800051652951
+"1Excludes red, fingerling, and creamer potatoes. It is assumed that consumers bake fresh potatoes and eat the peel. According to the USDA Food and Nutrient Database for Dietary Studies (FNDDS), one ounce of a raw potato with peel yields 23 grams when baked, implying a preparation yield of about 81.1 percent. ",,,,,,
+,,,,,,
+"2Includes regular, crinkle cut, steak, shoestring, and other types of french fries. The USDA National Nutrient Database for Standard Reference (SR) reports that a nine-ounce package of frozen french fried potatoes yields 198 grams when heated, indicating a preparation yield of about 77.6 percent.",,,,,,
+,,,,,,
+"3The liquid contents of the can are discarded prior to consumption. Based on the Food Patterns Equivalents Database (FPED), ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is liquid medium. The FPED cup equivalent weight for canned potatoes is the weight of the solids and not of the liquid medium in which the vegetable is packed. The preparation yield factor for canned potatoes in the above table does not account for any further preparation that occurs prior to consumption.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; the USDA National Nutrient Database for Standard Reference (SR), Release 26; the USDA Food and Nutrient Database for Dietary Studies (FNDDS), 5.0; and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,

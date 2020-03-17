@@ -1,0 +1,9 @@
+"Celery—Average retail price per pound and per cup equivalent, 2016",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Form,Average retail price ,,Preparation,Size of a ,,Average price
+,,,yield factor,cup equivalent ,,per cup equivalent
+Fresh1,,,,,,
+Trimmed bunches,1.0928457916, per pound,0.73,0.2645547146218531,pounds,0.39605137879785096
+Sticks,2.1340528999, per pound,1,0.2645547146218531,pounds,0.5645737559209825
+"1It is assumed that consumers eat the vegetable raw. For trimmed bunches, ERS further assumes that they discard inedible leaf ends, root end, and trimmings. These inedible parts account for 27 percent of the retail product's weight (Agriculture Handbook No. 102). For sticks, ERS assumes 100 percent of the product is edible vegetable.",,,,,,
+,,,,,,
+"Source: Calculated by USDA, Economic Research Service, from 2016 IRI Infoscan data; Agriculture Handbook No. 102, Food Yields Summarized by Different Stages of Preparation, 1975 (AH102); and the Food Patterns Equivalents Database (FPED) 2013-14 as well as the FPED's accompanying Methodology and User Guide.",,,,,,
