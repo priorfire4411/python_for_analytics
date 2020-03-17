@@ -1,0 +1,8 @@
+Flask==1.0.2
+Flask-BasicAuth==0.2.0
+Flask-Cors==3.0.6
+Flask-RESTful==0.3.6
+scikit-learn==0.19.2
+numpy==1.16.2
+joblib==0.12.5
+scipy==1.1.0
